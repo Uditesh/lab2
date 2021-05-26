@@ -1,0 +1,28 @@
+header {
+    margin-bottom: 6px;
+}
+
+.logo , h1{
+  display: inline-block;
+}
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #021233;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 15px;
+}
